@@ -1,0 +1,38 @@
+* {
+    margin: 0px;
+    padding: 0px;;
+}
+.top-container {
+    width: auto;
+    text-align: center;
+    font-size: 25px;
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+.container-search {
+    width: 400px;
+    height: 100px;
+    border-style:dotted;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    position: fixed;
+}
+
+.searchbar {
+    border-radius: 10px;
+    height: 30px;
+}
+
+.searchBtn {
+    width: auto;
+    margin: 5px;
+    padding: 2px;
+    height: 30px;
+    border-radius: 10px;
+}
