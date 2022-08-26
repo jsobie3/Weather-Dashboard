@@ -57,7 +57,7 @@ h2 {
 
 .results-area {
     width: 300px;
-    height: 300px;
+    height: auto;
     background-color: aqua;
     position: relative;
     margin: 10px;
@@ -84,29 +84,26 @@ h2 {
 
 .city-forecast {
     width: 500px;
-    height: 500px;
+    height: 300px;
     background-color: aliceblue;
-    position: relative;
     display: flex;
     right: 100px;
     flex-direction: column;
     flex-wrap: wrap;
     align-content: center;
+    align-items: flex-start;
+    position: relative;
     justify-content: center;
-    align-items: stretch;
-    position: fixed;
+    margin-left: auto;
+    right: 500px;
+    bottom: 175px;
 }
 
-.fiveday-forcast-container {
-    width: 500px;
-    height: 500px;
+/* .fiveday-forcast-container {
+    width: 100px;
+    height: 100px;
     background-color: rgb(35, 132, 218);
     position: relative;
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-content: center;
-    justify-content: center;
-    align-items: stretch;
-    
-}
+   
+} */
