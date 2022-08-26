@@ -5,7 +5,7 @@
 
 ![image](https://user-images.githubusercontent.com/109123352/186811967-ee1ef2b6-7907-43d3-947c-1c84e961167a.png)
 
-![Uploading image.png…]()
+
 
 
 
